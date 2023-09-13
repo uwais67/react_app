@@ -5,12 +5,12 @@
     color: #fff;
     padding: 20px 0;
     text-align: center;
-   margin-top: 36%;
+    margin-top: 34%;
   }
   
   .footer-content {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
   }
   
@@ -20,8 +20,6 @@
   
   .footer-links {
     list-style-type: none;
-    padding: 0;
-    margin: 0;
   }
   
   .footer-links li {
